@@ -1,4 +1,4 @@
-# Credit-Risk-Modelling-Using-Machine-Learning
+# Credit Risk Modelling Project
 
 #### Data cleaning- Null values, Outliers, Imputations
 #### EDA
